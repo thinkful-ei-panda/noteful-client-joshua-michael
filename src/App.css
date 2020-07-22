@@ -1,7 +1,7 @@
-@import url(//db.onlinewebfonts.com/c/63467b9cbd4a4d7eafb5e64946ecaa18?family=Maison+Neue);
+
 
 *{
-    font-family: "Maison Neue", sans-serif;
+    font-family: "sans-serif"
 }
 
 .wrapper {
@@ -14,8 +14,6 @@
     display: flex;
     flex-flow: column;
     padding: 10px;
-    /* justify-content: center; */
-    /* width: 100%; */
 }
 
 .border {
@@ -23,7 +21,7 @@
 }
 
 .note-margin {
-    margin-bottom: 10px;
+    margin-bottom: 30px;
 }
 
 header {
@@ -63,7 +61,7 @@ ul{
 }
 
 li {
-    margin-bottom: 10px;
+    margin-bottom: 30px;
 }
 
 button {
